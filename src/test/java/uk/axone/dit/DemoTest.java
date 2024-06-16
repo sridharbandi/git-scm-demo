@@ -13,4 +13,9 @@ public class DemoTest {
     public void testMethodTwo(){
         System.out.println("Test two");
     }
+
+    @Test
+    public void testMethodThree(){
+        System.out.println("Test three");
+    }
 }

@@ -9,4 +9,8 @@ public class Demo {
     public void methodTwo(){
         System.out.println("Method two");
     }
+
+    public void methodTHree(){
+        System.out.println("Method Three");
+    }
 }
